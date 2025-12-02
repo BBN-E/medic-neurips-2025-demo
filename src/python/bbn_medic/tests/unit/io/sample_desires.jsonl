@@ -1,0 +1,4 @@
+{"type": "Desire", "text": "nutrition", "id": "test-desire-1", "prompts": [{"type": "Prompt", "text": "test prompt #1", "id": "test-prompt-1", "metadata": {"style": "7th grade level of education"}}]}
+{"type": "Desire", "text": "nutrition", "id": "test-desire-2", "prompts": [{"type": "Prompt", "text": "test prompt #2", "id": "test-prompt-2", "metadata": {"style": "8th grade level of education"}}]}
+{"type": "Desire", "text": "medication", "id": "test-desire-3", "prompts": [{"type": "Prompt", "text": "test prompt #3", "id": "test-prompt-3", "metadata": {"style": "14th grade level of education", "system_prompt": "test system prompt"}}, {"type": "Prompt", "text": "test prompt #4", "id": "test-prompt-4", "metadata": {"style": "9th grade level of education"}}]}
+{"type": "Desire", "text": "medication", "id": "test-desire-4"}

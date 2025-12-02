@@ -1,0 +1,3 @@
+{"type": "Prompt", "metadata":  {"system_prompt": "malformed prompt #1"}}
+{"text": "malformed prompt #2", "metadata": "test"}
+{"type": "Prompt", "text": "one good prompt at end to make testing easier"}

@@ -1,0 +1,3 @@
+{"type": "Prompt", "text": "test prompt #1", "id": "test-prompt-1", "metadata": {"style": "7th grade level of education"}}
+{"type": "Prompt", "text": "test prompt #2", "id": "test-prompt-2", "metadata": {"style": "8th grade level of education"}}
+{"type": "Prompt", "text": "test prompt #3", "id": "test-prompt-3", "metadata": {"style": "14th grade level of education", "system_prompt": "test system prompt"}}
